@@ -1,3 +1,3 @@
-move_wrap(true, true, 10)
+move_wrap(true, true, 100)
 
 image_angle += 0.1

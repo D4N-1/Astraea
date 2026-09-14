@@ -6,3 +6,4 @@ so_bg_pool = [
 	so_bg_003,
 	so_bg_004
 ]
+
