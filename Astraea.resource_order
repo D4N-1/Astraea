@@ -1,8 +1,15 @@
 {
-  "FolderOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"bg","order":2,"path":"folders/Sounds/bg.yy",},
+  ],
   "ResourceOrderSettings":[
     {"name":"obj_big_rock","order":1,"path":"objects/obj_big_rock/obj_big_rock.yy",},
     {"name":"obj_bullet","order":2,"path":"objects/obj_bullet/obj_bullet.yy",},
     {"name":"obj_game","order":4,"path":"objects/obj_game/obj_game.yy",},
+    {"name":"so_bg_002","order":1,"path":"sounds/so_bg_002/so_bg_002.yy",},
+    {"name":"so_bg_003","order":2,"path":"sounds/so_bg_003/so_bg_003.yy",},
+    {"name":"so_bg_004","order":3,"path":"sounds/so_bg_004/so_bg_004.yy",},
+    {"name":"so_rock_destroy","order":3,"path":"sounds/so_rock_destroy/so_rock_destroy.yy",},
+    {"name":"so_shoot","order":4,"path":"sounds/so_shoot/so_shoot.yy",},
   ],
 }
