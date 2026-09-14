@@ -1,0 +1,18 @@
+/notes
+
+# Archivos de compilación y cache
+.editorconfig
+*.user
+*.lock2
+options/main/inherited/
+options/windows/inherited/
+
+# Carpetas temporales generadas por GM
+.idea/
+.vs/
+_build/
+build/
+AssetCompiler/
+
+# Archivo de configuración local del usuario en GM (guarda posición de ventanas, etc.)
+*.yyp.user
