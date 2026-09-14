@@ -5,4 +5,4 @@ instance_destroy();
 obj_game.alarm[0] = 120;
 
 obj_game_audio.drown_effect = true
-audio_play_sound(so_lose, 0, false);
+audio_play_sound(so_explosion, 0, false);

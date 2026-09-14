@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_button_settings",
+  "%Name":"obj_fx_volume_test",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_button_settings",
-  "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"base_button","path":"objects/base_button/base_button.yy",},"propertyId":{"name":"button_text","path":"objects/base_button/base_button.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Settings",},
-  ],
+  "name":"obj_fx_volume_test",
+  "overriddenProperties":[],
   "parent":{
-    "name":"menu",
-    "path":"folders/Objects/menu.yy",
+    "name":"volume",
+    "path":"folders/Objects/settings/volume.yy",
   },
   "parentObjectId":{
     "name":"base_button",
@@ -36,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_button",
-    "path":"sprites/spr_button/spr_button.yy",
+    "name":"spr_sound_logo",
+    "path":"sprites/spr_sound_logo/spr_sound_logo.yy",
   },
   "spriteMaskId":null,
   "visible":true,

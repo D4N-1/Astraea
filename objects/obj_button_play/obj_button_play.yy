@@ -10,15 +10,15 @@
   "managed":true,
   "name":"obj_button_play",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button/obj_button.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Play",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"base_button","path":"objects/base_button/base_button.yy",},"propertyId":{"name":"button_text","path":"objects/base_button/base_button.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Play",},
   ],
   "parent":{
     "name":"menu",
     "path":"folders/Objects/menu.yy",
   },
   "parentObjectId":{
-    "name":"obj_button",
-    "path":"objects/obj_button/obj_button.yy",
+    "name":"base_button",
+    "path":"objects/base_button/base_button.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

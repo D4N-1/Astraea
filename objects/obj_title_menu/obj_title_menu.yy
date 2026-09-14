@@ -5,15 +5,15 @@
   "managed":true,
   "name":"obj_title_menu",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_title","path":"objects/obj_title/obj_title.yy",},"propertyId":{"name":"text","path":"objects/obj_title/obj_title.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"ASTRAEA",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"base_text_centered","path":"objects/base_text_centered/base_text_centered.yy",},"propertyId":{"name":"text","path":"objects/base_text_centered/base_text_centered.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"ASTRAEA",},
   ],
   "parent":{
     "name":"menu",
     "path":"folders/Objects/menu.yy",
   },
   "parentObjectId":{
-    "name":"obj_title",
-    "path":"objects/obj_title/obj_title.yy",
+    "name":"base_text_centered",
+    "path":"objects/base_text_centered/base_text_centered.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
