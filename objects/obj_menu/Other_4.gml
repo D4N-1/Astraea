@@ -1,1 +1,1 @@
-audio_play_sound(so_bg_menu, 0, false)
+audio_play_sound_on(global.audio_emitter_bg, so_bg_menu, false, 0)

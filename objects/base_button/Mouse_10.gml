@@ -1,2 +1,2 @@
 image_alpha = 0.5
-var _so_hover = audio_play_sound(so_hover, 0, false)
+audio_play_sound_on( global.audio_emitter_fx, so_hover, false, 0)

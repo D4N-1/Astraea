@@ -2,7 +2,7 @@ effect_create_above(ef_explosion, x, y, 1, c_yellow);
 
 instance_destroy();
 
-obj_game.alarm[0] = 120;
+obj_game.alarm[0] = 240;
 
-obj_game_audio.drown_effect = true
-audio_play_sound(so_explosion, 0, false);
+global.is_muffle_effect = true;
+audio_play_sound_on( global.audio_emitter_fx, so_explosion, 0, false);

@@ -1,1 +1,0 @@
-audio_stop_sound(so_bg)

@@ -2,3 +2,5 @@
 event_inherited();
 
 if ( global.volume_fx > 0 ) global.volume_fx -= 1
+
+global.audio_bus_fx.gain = global.volume_fx / 100
