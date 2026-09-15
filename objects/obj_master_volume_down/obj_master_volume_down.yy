@@ -6,7 +6,10 @@
   ],
   "managed":true,
   "name":"obj_master_volume_down",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"base_button","path":"objects/base_button/base_button.yy",},"propertyId":{"name":"alarm_clock","path":"objects/base_button/base_button.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"base_button","path":"objects/base_button/base_button.yy",},"propertyId":{"name":"in_sound","path":"objects/base_button/base_button.yy",},"resource":{"name":"so_button_down","path":"sounds/so_button_down/so_button_down.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"so_button_down",},
+  ],
   "parent":{
     "name":"master",
     "path":"folders/Objects/settings/volume/master.yy",

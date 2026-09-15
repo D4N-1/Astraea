@@ -10,8 +10,8 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"base_text_centered","path":"objects/base_text_centered/base_text_centered.yy",},"propertyId":{"name":"halign","path":"objects/base_text_centered/base_text_centered.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"fa_right",},
   ],
   "parent":{
-    "name":"volume",
-    "path":"folders/Objects/settings/volume.yy",
+    "name":"bg",
+    "path":"folders/Objects/settings/volume/bg.yy",
   },
   "parentObjectId":{
     "name":"base_text_centered",

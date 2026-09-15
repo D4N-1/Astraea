@@ -1,4 +1,4 @@
 // Inherit the parent event
 event_inherited();
 
-draw_text(x, y, obj_global_settings.bg_volume)
+draw_text(x, y, global.volume_bg)

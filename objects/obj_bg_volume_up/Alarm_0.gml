@@ -1,0 +1,4 @@
+// Inherit the parent event
+event_inherited();
+
+if ( global.volume_bg < 100 ) global.volume_bg += 1

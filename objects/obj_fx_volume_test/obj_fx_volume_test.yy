@@ -8,8 +8,8 @@
   "name":"obj_fx_volume_test",
   "overriddenProperties":[],
   "parent":{
-    "name":"volume",
-    "path":"folders/Objects/settings/volume.yy",
+    "name":"fx",
+    "path":"folders/Objects/settings/volume/fx.yy",
   },
   "parentObjectId":{
     "name":"base_button",

@@ -1,18 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_master_volume_up",
+  "%Name":"obj_bg_volume_down",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_master_volume_up",
+  "name":"obj_bg_volume_down",
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"base_button","path":"objects/base_button/base_button.yy",},"propertyId":{"name":"alarm_clock","path":"objects/base_button/base_button.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"base_button","path":"objects/base_button/base_button.yy",},"propertyId":{"name":"in_sound","path":"objects/base_button/base_button.yy",},"resource":{"name":"so_button_up","path":"sounds/so_button_up/so_button_up.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"so_button_up",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"base_button","path":"objects/base_button/base_button.yy",},"propertyId":{"name":"in_sound","path":"objects/base_button/base_button.yy",},"resource":{"name":"so_button_down","path":"sounds/so_button_down/so_button_down.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"so_button_down",},
   ],
   "parent":{
-    "name":"master",
-    "path":"folders/Objects/settings/volume/master.yy",
+    "name":"bg",
+    "path":"folders/Objects/settings/volume/bg.yy",
   },
   "parentObjectId":{
     "name":"base_button",
@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_volume_up",
-    "path":"sprites/spr_volume_up/spr_volume_up.yy",
+    "name":"spr_volume_down",
+    "path":"sprites/spr_volume_down/spr_volume_down.yy",
   },
   "spriteMaskId":null,
   "visible":true,

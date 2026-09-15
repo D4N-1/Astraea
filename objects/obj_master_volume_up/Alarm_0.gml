@@ -1,13 +1,7 @@
 // Inherit the parent event
 event_inherited();
 
-show_debug_message("signal")
 
-if ( obj_global_settings.master_volume >= 100 ) {
-	
-} else {
-	
-	show_debug_message(obj_global_settings.master_volume)
-	
-	obj_global_settings.master_volume += 1
-}
+if ( global.volume_master < 100 ) global.volume_master += 1
+
+audio_master_gain(global.volume_master/100)

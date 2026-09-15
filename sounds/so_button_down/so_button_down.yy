@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"so_button",
+  "%Name":"so_button_down",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,9 +10,9 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":0.1440136,
+  "duration":1.4889796,
   "exportDir":"",
-  "name":"so_button",
+  "name":"so_button_down",
   "parent":{
     "name":"buttons",
     "path":"folders/Sounds/buttons.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"so_button.mp3",
+  "soundFile":"so_button_down.mp3",
   "volume":1.0,
 }

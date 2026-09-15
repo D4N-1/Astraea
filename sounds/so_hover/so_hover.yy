@@ -14,8 +14,8 @@
   "exportDir":"",
   "name":"so_hover",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"buttons",
+    "path":"folders/Sounds/buttons.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
