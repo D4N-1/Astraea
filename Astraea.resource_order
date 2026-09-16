@@ -45,7 +45,6 @@
     {"name":"scr_aglobal_vars","order":5,"path":"scripts/scr_aglobal_vars/scr_aglobal_vars.yy",},
     {"name":"scr_bus","order":1,"path":"scripts/scr_bus/scr_bus.yy",},
     {"name":"scr_cursor","order":2,"path":"scripts/scr_cursor/scr_cursor.yy",},
-    {"name":"scr_ini","order":3,"path":"scripts/scr_ini/scr_ini.yy",},
     {"name":"scr_stats","order":4,"path":"scripts/scr_stats/scr_stats.yy",},
     {"name":"so_bg_002","order":1,"path":"sounds/so_bg_002/so_bg_002.yy",},
     {"name":"so_bg_003","order":2,"path":"sounds/so_bg_003/so_bg_003.yy",},

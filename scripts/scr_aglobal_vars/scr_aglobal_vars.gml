@@ -1,6 +1,5 @@
-global.settings_ini = get_settings_ini()
 global.user_settings = load_user_settings()
-global.user_stats = get_stats()
+global.user_stats = get_user_stats()
 
 
 
