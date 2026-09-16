@@ -1,3 +1,7 @@
-global.points = 0;
-global.max_points = 0;
-global.new_record = false;
+function get_stats () {
+	return {
+		points: 0,
+		max_points: 0,
+		new_record: false
+	}
+}

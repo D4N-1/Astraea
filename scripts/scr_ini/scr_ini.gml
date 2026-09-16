@@ -1,4 +1,6 @@
-global.settings_ini = {
+function get_settings_ini () {
+	
+	return {
 	
 	/// @desc Escribe en una key de los ajustes de usuario
 	/// @param {string} key Clave del atributo a editar
@@ -24,5 +26,7 @@ global.settings_ini = {
 		
 		return _value
 	}
+	
+}
 	
 }

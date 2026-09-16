@@ -12,12 +12,12 @@ if ( sprite_index == spr_rock_big ) {
 	sprite_index = spr_rock_small;
 	instance_copy(true);
 	x -= 75
-	global.points += 10
+	global.user_stats.points += 10
 	
 } else if ( instance_number(obj_big_rock) < 12 ) {
 	
 	sprite_index = spr_rock_big;
 	x = -100;
-	global.points += 5;
+	global.user_stats.points += 5;
 	
 } else instance_destroy();

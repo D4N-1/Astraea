@@ -49,6 +49,3 @@ function save_user_settings() {
 	ini_close()
 	
 }
-
-
-global.user_settings = load_user_settings()

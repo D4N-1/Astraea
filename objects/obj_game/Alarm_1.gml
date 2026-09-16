@@ -1,9 +1,9 @@
 
-if ( global.max_points < global.points ) {
+if ( global.user_stats.max_points < global.user_stats.points ) {
 	
-	global.max_points = global.points
-	global.new_record = true
+	global.user_stats.max_points = global.user_stats.points
+	global.user_stats.new_record = true
 	
 }
 
-global.points = 0
+global.user_stats.points = 0
