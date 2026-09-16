@@ -2,7 +2,7 @@ instance_destroy(other);
 audio_play_sound(so_rock_destroy, 0, false, 1, 0, random_range(0.5, 1.5) );
 
 
-effect_create_above(ef_explosion, x, y, 1, c_white);
+effect_create_depth(depth,  ef_explosion, x, y, 1, c_white);
 
 direction = random(360);
 

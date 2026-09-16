@@ -1,4 +1,4 @@
-effect_create_above(ef_explosion, x, y, 1, c_yellow);
+effect_create_depth(depth, ef_explosion, x, y, 1, c_white);
 
 instance_destroy();
 

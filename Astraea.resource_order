@@ -11,6 +11,7 @@
     {"name":"bg","order":2,"path":"folders/Sounds/bg.yy",},
     {"name":"buttons","order":9,"path":"folders/Sounds/buttons.yy",},
     {"name":"buttons","order":6,"path":"folders/Sprites/buttons.yy",},
+    {"name":"cursor","order":9,"path":"folders/Sprites/cursor.yy",},
     {"name":"ship","order":7,"path":"folders/Sprites/ship.yy",},
   ],
   "ResourceOrderSettings":[
@@ -54,7 +55,7 @@
     {"name":"so_rock_destroy","order":3,"path":"sounds/so_rock_destroy/so_rock_destroy.yy",},
     {"name":"so_shoot","order":4,"path":"sounds/so_shoot/so_shoot.yy",},
     {"name":"spr_button_editable","order":1,"path":"sprites/spr_button_editable/spr_button_editable.yy",},
-    {"name":"spr_cursor_idle","order":8,"path":"sprites/spr_cursor_idle/spr_cursor_idle.yy",},
+    {"name":"spr_cursor_select","order":1,"path":"sprites/spr_cursor_select/spr_cursor_select.yy",},
     {"name":"spr_ship","order":1,"path":"sprites/spr_ship/spr_ship.yy",},
     {"name":"spr_sound_logo","order":2,"path":"sprites/spr_sound_logo/spr_sound_logo.yy",},
     {"name":"spr_volume_down","order":3,"path":"sprites/spr_volume_down/spr_volume_down.yy",},
