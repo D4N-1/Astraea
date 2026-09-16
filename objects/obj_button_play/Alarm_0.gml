@@ -2,5 +2,5 @@
 event_inherited();
 
 audio_stop_sound(so_bg_menu);
-cursor_sprite = cr_none;
+set_cursor_sprite(enumCursor_state.NONE)
 room_goto(rm_game);

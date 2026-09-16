@@ -44,6 +44,7 @@
     {"name":"scr_aini","order":3,"path":"scripts/scr_aini/scr_aini.yy",},
     {"name":"scr_bus","order":1,"path":"scripts/scr_bus/scr_bus.yy",},
     {"name":"scr_mouse","order":2,"path":"scripts/scr_mouse/scr_mouse.yy",},
+    {"name":"scr_stats","order":4,"path":"scripts/scr_stats/scr_stats.yy",},
     {"name":"so_bg_002","order":1,"path":"sounds/so_bg_002/so_bg_002.yy",},
     {"name":"so_bg_003","order":2,"path":"sounds/so_bg_003/so_bg_003.yy",},
     {"name":"so_bg_004","order":3,"path":"sounds/so_bg_004/so_bg_004.yy",},

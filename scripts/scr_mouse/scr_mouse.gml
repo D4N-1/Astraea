@@ -3,12 +3,14 @@ window_set_cursor(cr_none);
 
 
 enum enumCursor_state {
+	NONE,
 	IDLE,
 	SELECT
 }
 
 global.cursor_sprites = { }
-	
+
+global.cursor_sprites[enumCursor_state.NONE] = cr_none
 global.cursor_sprites[enumCursor_state.IDLE] = spr_cursor_idle
 global.cursor_sprites[enumCursor_state.SELECT] = spr_cursor_select
 	

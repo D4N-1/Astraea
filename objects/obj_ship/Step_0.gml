@@ -1,6 +1,7 @@
 move_wrap(true, true, 10)
 
-show_debug_message( keyboard_key )
+show_debug_message(x)
+show_debug_message(y)
 
 if ( keyboard_check(vk_up) || keyboard_check( ord("W")) ) motion_add(image_angle, 0.1);
 
