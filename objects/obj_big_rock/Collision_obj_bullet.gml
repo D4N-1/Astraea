@@ -1,5 +1,5 @@
 instance_destroy(other);
-audio_play_sound(so_rock_destroy, 0, false, 1, 0, random_range(0.5, 1.5) );
+audio_play_sound_on(global.audio_emitter_fx, so_rock_destroy, false, 0, 1, 0, random_range(0.5, 1.5) );
 
 
 effect_create_depth(depth,  ef_explosion, x, y, 1, c_white);

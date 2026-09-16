@@ -4,10 +4,13 @@
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_game",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"base_text_centered","path":"objects/base_text_centered/base_text_centered.yy",},"propertyId":{"name":"text_font","path":"objects/base_text_centered/base_text_centered.yy",},"resource":{"name":"fnt_button","path":"fonts/fnt_button/fnt_button.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"fnt_button",},
+  ],
   "parent":{
     "name":"game",
     "path":"folders/Objects/game.yy",

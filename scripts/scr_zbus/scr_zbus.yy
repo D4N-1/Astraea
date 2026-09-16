@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"scr_bus",
+  "%Name":"scr_zbus",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"scr_bus",
+  "name":"scr_zbus",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",
