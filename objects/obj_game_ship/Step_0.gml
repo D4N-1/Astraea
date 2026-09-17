@@ -12,9 +12,9 @@ if ( keyboard_check(vk_up) || keyboard_check( ord("W")) ) {
 
 if ( keyboard_check(vk_down) || keyboard_check( ord("S")) ) motion_add(image_angle, -0.05);
 
-if ( keyboard_check(vk_left) || keyboard_check( ord("A")) ) image_angle += 1.5
+if ( keyboard_check(vk_left) || keyboard_check( ord("A")) ) image_angle += 2
 
-if ( keyboard_check(vk_right) || keyboard_check( ord("D")) ) image_angle -= 1.5
+if ( keyboard_check(vk_right) || keyboard_check( ord("D")) ) image_angle -= 2
 
 if ( mouse_check_button_pressed(mb_left) || keyboard_check_pressed( vk_space ) ) {
 	

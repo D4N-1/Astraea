@@ -7,16 +7,16 @@ effect_create_depth(depth,  ef_explosion, x, y, 1, c_white);
 direction = random(360);
 
 
-if ( sprite_index == spr_rock_big ) {
+if ( array_contains(sprites, sprite_index) ) {
 	
 	sprite_index = spr_rock_small;
+	
 	instance_copy(true);
-	x -= 75
 	global.user_stats.points += 10
 	
-} else if ( instance_number(obj_big_rock) < 12 ) {
+} else if ( instance_number(obj_big_rock) < global.max_rocks ) {
 	
-	sprite_index = spr_rock_big;
+	sprite_index = sprites[ irandom_range(0, 2) ];
 	x = -100;
 	global.user_stats.points += 5;
 	

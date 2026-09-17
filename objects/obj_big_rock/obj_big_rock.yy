@@ -31,10 +31,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_rock_big",
-    "path":"sprites/spr_rock_big/spr_rock_big.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

@@ -2,6 +2,8 @@
 event_inherited();
 
 draw_text(x, y, global.user_stats.points)
+draw_text(x, y + 50, timer)
+draw_text(x, y + 125, global.max_rocks)
 
 
 if ( global.user_stats.new_record ) {

@@ -12,6 +12,7 @@
     {"name":"buttons","order":9,"path":"folders/Sounds/buttons.yy",},
     {"name":"buttons","order":6,"path":"folders/Sprites/buttons.yy",},
     {"name":"cursor","order":9,"path":"folders/Sprites/cursor.yy",},
+    {"name":"rocks","order":11,"path":"folders/Sprites/rocks.yy",},
     {"name":"ship","order":7,"path":"folders/Sprites/ship.yy",},
   ],
   "ResourceOrderSettings":[
@@ -60,6 +61,8 @@
     {"name":"spr_button_editable","order":1,"path":"sprites/spr_button_editable/spr_button_editable.yy",},
     {"name":"spr_cursor_select","order":1,"path":"sprites/spr_cursor_select/spr_cursor_select.yy",},
     {"name":"spr_gun","order":3,"path":"sprites/spr_gun/spr_gun.yy",},
+    {"name":"spr_rock_big_02","order":1,"path":"sprites/spr_rock_big_02/spr_rock_big_02.yy",},
+    {"name":"spr_rock_big_03","order":2,"path":"sprites/spr_rock_big_03/spr_rock_big_03.yy",},
     {"name":"spr_ship_accel","order":2,"path":"sprites/spr_ship_accel/spr_ship_accel.yy",},
     {"name":"spr_ship","order":1,"path":"sprites/spr_ship/spr_ship.yy",},
     {"name":"spr_sound_logo","order":2,"path":"sprites/spr_sound_logo/spr_sound_logo.yy",},
