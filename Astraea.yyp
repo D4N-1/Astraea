@@ -109,6 +109,7 @@
     {"id":{"name":"spr_cursor_select","path":"sprites/spr_cursor_select/spr_cursor_select.yy",},},
     {"id":{"name":"spr_rock_big","path":"sprites/spr_rock_big/spr_rock_big.yy",},},
     {"id":{"name":"spr_rock_small","path":"sprites/spr_rock_small/spr_rock_small.yy",},},
+    {"id":{"name":"spr_ship_accel","path":"sprites/spr_ship_accel/spr_ship_accel.yy",},},
     {"id":{"name":"spr_ship","path":"sprites/spr_ship/spr_ship.yy",},},
     {"id":{"name":"spr_sound_logo","path":"sprites/spr_sound_logo/spr_sound_logo.yy",},},
     {"id":{"name":"spr_volume_down","path":"sprites/spr_volume_down/spr_volume_down.yy",},},

@@ -58,6 +58,7 @@
     {"name":"so_shoot","order":4,"path":"sounds/so_shoot/so_shoot.yy",},
     {"name":"spr_button_editable","order":1,"path":"sprites/spr_button_editable/spr_button_editable.yy",},
     {"name":"spr_cursor_select","order":1,"path":"sprites/spr_cursor_select/spr_cursor_select.yy",},
+    {"name":"spr_ship_accel","order":2,"path":"sprites/spr_ship_accel/spr_ship_accel.yy",},
     {"name":"spr_ship","order":1,"path":"sprites/spr_ship/spr_ship.yy",},
     {"name":"spr_sound_logo","order":2,"path":"sprites/spr_sound_logo/spr_sound_logo.yy",},
     {"name":"spr_volume_down","order":3,"path":"sprites/spr_volume_down/spr_volume_down.yy",},

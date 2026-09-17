@@ -1,8 +1,6 @@
-speed = 0.5;
+max_speed = random_range(0.2, 1.6);
+speed = max_speed
 direction = random(360);
 image_angle = random(360);
 
-collision = 25;
-reset_time = 3;
-
-resetting_in = reset_time;
+collision_cooldown = 10;

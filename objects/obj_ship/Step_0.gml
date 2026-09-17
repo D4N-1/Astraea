@@ -3,7 +3,12 @@ move_wrap(true, true, 10)
 show_debug_message(x)
 show_debug_message(y)
 
-if ( keyboard_check(vk_up) || keyboard_check( ord("W")) ) motion_add(image_angle, 0.1);
+if ( keyboard_check(vk_up) || keyboard_check( ord("W")) ) {
+	
+	motion_add(image_angle, 0.1);
+	sprite_index = spr_ship_accel
+	
+} else sprite_index = spr_ship
 
 if ( keyboard_check(vk_down) || keyboard_check( ord("S")) ) motion_add(image_angle, -0.05);
 
