@@ -23,7 +23,7 @@
   ],
   "name":"spr_ship",
   "nineSlice":null,
-  "origin":4,
+  "origin":9,
   "parent":{
     "name":"ship",
     "path":"folders/Sprites/ship.yy",
@@ -76,7 +76,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":36,
-    "yorigin":30,
+    "yorigin":32,
   },
   "swatchColours":null,
   "swfPrecision":2.525,
